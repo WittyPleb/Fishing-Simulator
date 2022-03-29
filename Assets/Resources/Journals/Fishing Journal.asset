@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98633cd5acd249308d7eafaa24c8a98e, type: 3}
+  m_Name: Fishing Journal
+  m_EditorClassIdentifier: 
+  journalName: Fishing
+  availableFish:
+  - {fileID: 11400000, guid: e5378270cca55d34fa6304c886f47cfe, type: 2}
+  - {fileID: 11400000, guid: 6be6c8a0cd6d3d8469261dd1301a2c31, type: 2}
+  - {fileID: 11400000, guid: 94952b23500148a4b8ef6ad6630a1bf1, type: 2}
+  - {fileID: 11400000, guid: f854bd36c2b7c2e448f7e5dbeaaae3a9, type: 2}
+  - {fileID: 11400000, guid: 67d34738b7689244d856a1f68fe93070, type: 2}
+  - {fileID: 11400000, guid: e6ac2474c80aace47a4dd15704657801, type: 2}
+  - {fileID: 11400000, guid: 0dedb86bc5be50348955cd9b3b56f462, type: 2}
+  - {fileID: 11400000, guid: f0241a964d6f2b94ba24176bdba64a82, type: 2}
+  - {fileID: 11400000, guid: a424c19f7b109cc40809be08d53d8641, type: 2}
